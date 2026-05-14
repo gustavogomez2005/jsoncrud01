@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "titulo": "La hermandad",
+        "autor": "john Grisham",
+        "precio": 15000,
+        "editorial": "La Trama",
+        "stock": 50,
+        "disponible": true
+    },
+    {
+        "id": 2,
+        "titulo": "Una Fracción de Segundos",
+        "autor": "David Baldacci",
+        "precio": 10000,
+        "editorial": "Ediciones B",
+        "stock": 18,
+        "disponible": true
+    },
+    {
+        "id": 3,
+        "titulo": "El Rey de los Pleitos",
+        "autor": "john Grisham",
+        "precio": 25000,
+        "editorial": "La Trama",
+        "stock": 10,
+        "disponible": true
+    },
+    {
+        "id": 4,
+        "titulo": "El Hombre más Buscado",
+        "autor": "john Le Carre",
+        "precio": 5000,
+        "editorial": "Señor Json",
+        "stock": 5,
+        "disponible": true
+    },
+    {
+        "id": 5,
+        "titulo": "Los Guardianes",
+        "autor": "john Grisham",
+        "precio": 25000,
+        "editorial": "La Trama",
+        "stock": 6,
+        "disponible": true
+    },
+    {
+        "id": 6,
+        "titulo": "A cualquier Precio",
+        "autor": "David Baldacci",
+        "precio": 10000,
+        "editorial": "La Trama",
+        "stock": 58,
+        "disponible": true
+    },
+    {
+        "id": 7,
+        "titulo": "Los Coleccionistas",
+        "autor": "David Baldacci",
+        "precio": 16000,
+        "editorial": "La Trama",
+        "stock": 0,
+        "disponible": false
+    },
+    {
+        "id": 8,
+        "titulo": "El Psiconoalista",
+        "autor": "john Katzenbach",
+        "precio": 18800,
+        "editorial": "Zeta Negra",
+        "stock": 5,
+        "disponible": true
+    },
+    {
+        "id": 9,
+        "titulo": "La Apelación",
+        "autor": "john Grisham",
+        "precio": 15000,
+        "editorial": "La Trama",
+        "stock": 10,
+        "disponible": true
+    },
+    {
+        "id": 10,
+        "titulo": "Siete Vidas",
+        "autor": "john Grisham",
+        "precio": 14500,
+        "editorial": "Relatos",
+        "stock": 0,
+        "disponible": false
+    }    
+]
