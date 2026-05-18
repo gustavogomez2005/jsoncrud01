@@ -5,7 +5,7 @@ document.getElementById('btnConsultaPorId').addEventListener('click', ()=>{
 
 })
 
-
+/*
 document.getElementById('btnFiltrar').addEventListener('click', ()=>{
     let autorBuscado = prompt('Ingrese el autor a buscar');
     fetch(archivo)
@@ -30,7 +30,8 @@ document.getElementById('btnFiltrar').addEventListener('click', ()=>{
            console.log('error');
         })
 })
-
+*/
+/*
 document.getElementById('btnMostrarTodos').addEventListener('click', ()=>{
     fetch(archivo)
         .then( (resp)=>{
@@ -50,6 +51,7 @@ document.getElementById('btnMostrarTodos').addEventListener('click', ()=>{
             alert(`Error ${e}`)
         })
 })
+*/
 
 document.getElementById('btnMostrarMorphi').addEventListener('click', ()=>{
     
