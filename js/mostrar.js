@@ -10,7 +10,7 @@ let archivo = './json/libros.json';
             divmuestra.innerHTML = "";
             libros.forEach(libro => {
                 let li = document.createElement('li');
-                li.textContent = `Título: ${libro.titulo} Autor: ${libro.autor} Precio: ${libro.precio}`
+                li.textContent = `Título: ${libro.titulo} Autor: ${libro.autor} con su id ${libro.id} Precio: ${libro.precio}`
                 divmuestra.appendChild(li);
             });
         })
