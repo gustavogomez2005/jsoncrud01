@@ -1,6 +1,8 @@
 let archivo = './json/libros.json';
 
 
+
+
 /*
 document.getElementById('btnEliminar').addEventListener('click', ()=>{
     let buscarId = document.getElementById('eliminarId').value;
